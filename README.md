@@ -5,10 +5,6 @@
 
 I am a curious explorer who thrives in wearing multiple hats (Full Stack Developer 🌐, App Developer 📱, AI Experimenter 🤖, and occasional movie buff🎥). I enjoy diving into new technologies 🔧 and using them to create impactful solutions 💡. Whether it’s building scalable systems, experimenting with algorithms, or designing user-friendly interfaces, I’m always eager to learn and innovate 🚀.
 
-
-<br/>
-<br/>
-
   
 ### 🧐 More About Me:
 
