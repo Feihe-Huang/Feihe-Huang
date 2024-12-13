@@ -3,7 +3,7 @@
 
 <br/>
 
-I am a curious explorer who thrives in wearing multiple hats (Full Stack Developer 🌐, App Developer 📱, AI Experimenter 🤖, and occasional movie buff🎥). I enjoy diving into new technologies 🔧 and using them to create impactful solutions 💡. Whether it’s building scalable systems, experimenting with algorithms, or designing user-friendly interfaces, I’m always eager to learn and innovate 🚀.
+I am a curious explorer who thrives in wearing multiple hats (Full Stack Developer 🌐, App Developer 📱, AI Experimenter 🤖, and occasional movie buff 🎥). I enjoy diving into new technologies 🔧 and using them to create impactful solutions 💡. Whether it’s building scalable systems, experimenting with algorithms, or designing user-friendly interfaces, I’m always eager to learn and innovate 🚀.
 
   
 ### 🧐 More About Me:
@@ -24,9 +24,7 @@ I am a curious explorer who thrives in wearing multiple hats (Full Stack Develop
 
 <br>
 
-[//]: # (<span>[![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Feihe-Huang&layout=compact&theme=transparent&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Feihe-Huang&layout=compact&#41;)
 
-[//]: # ()
-[//]: # (</span>)
 
 <br>
