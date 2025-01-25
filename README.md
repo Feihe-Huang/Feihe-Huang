@@ -3,17 +3,17 @@
 
 <br/>
 
-I am a curious explorer who thrives in wearing multiple hats (Full Stack Developer 🌐, App Developer 📱, AI Experimenter 🤖, and occasional movie buff 🎥). I enjoy diving into new technologies 🔧 and using them to create impactful solutions 💡. Whether it’s building scalable systems, experimenting with algorithms, or designing user-friendly interfaces, I’m always eager to learn and innovate 🚀.
+I am a curious explorer who thrives in wearing multiple hats (Full Stack Developer 🌐, App Developer 📱, AI/ML Experimenter 🤖, and occasional movie buff 🎥). I enjoy diving into new technologies 🔧 and using them to create impactful solutions 💡. Whether it’s building scalable systems, experimenting with algorithms, or designing user-friendly interfaces, I’m always eager to learn and innovate 🚀.
 
   
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently a graduate student at University of Washington (UW-Seattle)
 - 🌱 &nbsp; Dual bachelor degree in Software Engineering at UCD & BJUT
-- 🤝 &nbsp; I’m looking for the SDE/SWE internship in 2025 summer based in US
+- 🤝 &nbsp; I’m looking for the SDE/MLE internship in 2025 summer based in US
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Feihe-Huang?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/feihe-huang-57723a2a2/)
-- 💬 &nbsp; Reach me at feiheh@uw.edu or fh1104028870@gmail.com
+- 💬 &nbsp; Reach me at fh1104028870@gmail.com or feiheh@uw.edu
 
 <br>
 
