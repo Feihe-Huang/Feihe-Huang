@@ -9,10 +9,11 @@ I am a curious explorer who thrives in wearing multiple hats (Full Stack Develop
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently a graduate student at University of Washington (UW-Seattle)
-- 🌱 &nbsp; Dual bachelor degree in Software Engineering at UCD & BJUT
-- 🤝 &nbsp; I’m looking for the SDE/MLE internship in 2025 summer based in US
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Feihe-Huang?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/feihe-huang-57723a2a2/)
+- 📖 &nbsp; Dual bachelor degree in Software Engineering at UCD & BJUT
+- 💻 &nbsp; Incoming 2025 Summer SDE Intern at Amazon Seattle
+- 🤝 &nbsp; I’m looking for the SDE/MLE internship in 2025 Fall based in US
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/Feihe-Huang?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/feihe-h-57723a2a2/)
 - 💬 &nbsp; Reach me at fh1104028870@gmail.com or feiheh@uw.edu
 
 <br>
